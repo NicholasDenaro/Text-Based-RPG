@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Monsters>
+  <Monster Name="Slime" BaseHealth="5" LowLevel="1" HighLevel="5">
+    <Skill Name="Bounce" Damage="2"></Skill>
+  </Monster>
+  <Monster Name="Rat" BaseHealth="3" LowLevel="1" HighLevel="4">
+    <Skill Name="Bite" Damage="1"></Skill>
+  </Monster>
+  <Monster Name="Golbin" BaseHealth="4" LowLevel="3" HighLevel="8">
+    <Skill Name="Slash" Damage="3"></Skill>
+    <Skill Name="Stab" Damage="2"></Skill>
+  </Monster>
+  <Monster Name="Wolf" BaseHealth="4" LowLevel="7" HighLevel="14">
+    <Skill Name="Bite" Damage="4"></Skill>
+    <Skill Name="Pounce" Damage="2"></Skill>
+  </Monster>
+  <Monster Name="Bear" BaseHealth="5" LowLevel="12" HighLevel="20">
+    <Skill Name="Maul" Damage="5"></Skill>
+    <Skill Name="Swipe" Damage="3"></Skill>
+  </Monster>
+</Monsters>

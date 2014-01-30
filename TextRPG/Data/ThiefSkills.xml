@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Skill Name="Quickstab" Type="ACTIVE" Effect="LUK_DMG" Value="0.3" ManaCost="0">
+  <Children>
+    <Skill Name="Backstab" Type="ACTIVE" Effect="LUK_DMG" Value="0.5" ManaCost="2">
+      <Children>
+        <Skill Name="Shadow Step" Type="ACTIVE" Effect="LUK_DMG" Value="0.7" ManaCost="4">
+        </Skill>
+        <Skill Name="Double Slash" Type="ACTIVE" Effect="LUK_DMG" Value="0.6" ManaCost="3">
+        </Skill>
+      </Children>
+    </Skill>
+    <Skill Name="Lucky Slash" Type="ACTIVE" Effect="LUK_DMG" Value="0.6" ManaCost="4">
+      <Children>
+        <Skill Name="777" Type="PASSIVE" Effect="LUCK" Value="7" ManaCost="0">
+        </Skill>
+      </Children>
+    </Skill>
+  </Children>
+</Skill>

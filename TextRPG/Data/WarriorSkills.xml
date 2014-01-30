@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Skill Name="Big Fist" Type="ACTIVE" Effect="STR_DMG" Value="0.3" ManaCost="0">
+	<Children>
+		<Skill Name="Hard Body" Type="PASSIVE" Effect="ARMOR" Value="2" ManaCost="0">
+      <Children>
+        <Skill Name="Counter" Type="ACTIVE" Effect="STR_DMG" Value="0.4" ManaCost="1">
+        </Skill>
+        <Skill Name="Grapple" Type="ACTIVE" Effect="STR_DMG" Value="0.6" ManaCost="3">
+        </Skill>
+      </Children>
+		</Skill>
+    <Skill Name="Fast Fist" Type="ACTIVE" Effect="STR_DMG" Value="0.5" ManaCost="2">
+      <Children>
+        <Skill Name="Quick Smash" Type="ACTIVE" Effect="STR_DMG" Value="0.8" ManaCost="4">
+          <Children>
+            <Skill Name="Thunder Smash" Type="ACTIVE" Effect="STR_DMG" Value="1.2" ManaCost="8">
+            </Skill>
+          </Children>
+        </Skill>
+      </Children>
+    </Skill>
+	</Children>
+</Skill>

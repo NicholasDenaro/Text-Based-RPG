@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Races>
+  <Human Char="H">
+    <Bonuses Health="-1" Mana="-1" Strength="-1" Dexterity="-1" Intellect="-1" Luck="-1" Charisma="6">
+    </Bonuses>
+    <Description Attr1="Humans are the jack of all trades.">
+    </Description>
+  </Human>
+  <Ogre Char="O">
+    <Bonuses Health="5" Mana="-5" Strength="8" Dexterity="2" Intellect="-4" Luck="-4" Charisma="-2">
+    </Bonuses>
+    <Description Attr1="Ogres are very clumsy, and dull; yet immensly powerful.">
+    </Description>
+  </Ogre>
+  <Elf Char="E">
+    <Bonuses Health="-6" Mana="6" Strength="-5" Dexterity="1" Intellect="3" Luck="0" Charisma="1">
+    </Bonuses>
+    <Description Attr1="Elves are fragile but possess great magics.">
+    </Description>
+  </Elf>
+  <Sprite Char="S">
+    <Bonuses Health="-5" Mana="-5" Strength="1" Dexterity="3" Intellect="2" Luck="4" Charisma="0">
+    </Bonuses>
+    <Description Attr1="Sprites are stealthy and quick; masters of hiding in plain sight.">
+    </Description>
+  </Sprite>
+</Races>

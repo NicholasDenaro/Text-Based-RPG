@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Skill Name="Arrow Throw" Type="ACTIVE" Effect="DEX_DMG" Value="0.3" ManaCost="0">
+  <Children>
+    <Skill Name="Double Shot" Type="ACTIVE" Effect="DEX_DMG" Value="0.6" ManaCost="4">
+      <Children>
+        <Skill Name="Hawkeye" Type="PASSIVE" Effect="DEXTERITY" Value="3" ManaCost="0">
+          <Children>
+            <Skill Name="Steady Shot" Type="ACTIVE" Effect="DEX_DMG" Value="1" ManaCost="6">
+            </Skill>
+          </Children>
+        </Skill>
+        <Skill Name="Strong Shot" Type="ACTIVE" Effect="DEX_DMG" Value="0.7" ManaCost="4">
+        </Skill>
+      </Children>
+    </Skill>
+    <Skill Name="Quick Shot" Type="ACTIVE" Effect="DEX_DMG" Value="0.4" ManaCost="2">
+      <Children>
+        <Skill Name="Quick Aim" Type="PASSIVE" Effect="DEXTERITY" Value="2" ManaCost="0">
+        </Skill>
+      </Children>
+    </Skill>
+  </Children>
+</Skill>

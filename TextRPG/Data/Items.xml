@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemList>
+  <Item Name="Wooden Sword" Type="Weapon" Level="1" Worth="10">
+    <Effects Strength="2" Dexterity="1"></Effects>
+  </Item>
+  <Item Name="Wooden Dagger" Type="Weapon" Level="1" Worth="10">
+    <Effects Dexterity="2" Luck="1"></Effects>
+  </Item>
+  <Item Name="Wooden Wand" Type="Weapon" Level="1" Worth="10">
+    <Effects Intellect="2" Dexterity="1"></Effects>
+  </Item>
+  <Item Name="Wooden Bow" Type="Weapon" Level="1" Worth="10">
+    <Effects Dexterity="2" Strength="1"></Effects>
+  </Item>
+  <Item Name="Stone Helmet" Type="Helmet" Level="1" Worth="10">
+    <Effects Armor="1" Strength="1"></Effects>
+  </Item>
+  <Item Name="Stone PlateBody" Type="BodyArmor" Level="1" Worth="10">
+    <Effects Armor="3" Strength="1"></Effects>
+  </Item>
+  <Item Name="Stone PlateLegs" Type="LegArmor" Level="1" Worth="10">
+    <Effects Armor="2" Strength="1"></Effects>
+  </Item>
+  <Item Name="Leather Cap" Type="Helmet" Level="1" Worth="10">
+    <Effects Armor="1" Dexterity="1"></Effects>
+  </Item>
+  <Item Name="Leather Body" Type="BodyArmor" Level="1" Worth="10">
+    <Effects Armor="2" Dexterity="1"></Effects>
+  </Item>
+  <Item Name="Leather Leggings" Type="LegArmor" Level="1" Worth="10">
+    <Effects Armor="1" Dexterity="1"></Effects>
+  </Item>
+  <Item Name="Linen Hood" Type="Helmet" Level="1" Worth="10">
+    <Effects Armor="0" Intellect="1"></Effects>
+  </Item>
+  <Item Name="Linen RobeTop" Type="BodyArmor" Level="1" Worth="10">
+    <Effects Armor="1" Intellect="1"></Effects>
+  </Item>
+  <Item Name="Linen RobeBottom" Type="LegArmor" Level="1" Worth="10">
+    <Effects Armor="0" Intellect="1"></Effects>
+  </Item>
+  <Item Name="Hooded Veil" Type="Helmet" Level="1" Worth="10">
+    <Effects Armor="0" Luck="1"></Effects>
+  </Item>
+  <Item Name="Cloak" Type="BodyArmor" Level="1" Worth="10">
+    <Effects Armor="0" Luck="1"></Effects>
+  </Item>
+  <Item Name="Tights" Type="LegArmor" Level="1" Worth="10">
+    <Effects Armor="0" Luck="1"></Effects>
+  </Item>
+  <Item Name="Small Health Potion" Type="Usable" Level="1" Worth="5">
+    <Effects Health="5"></Effects>
+  </Item>
+  <Item Name="Small Mana Potion" Type="Usable" Level="1" Worth="5">
+    <Effects Mana="5"></Effects>
+  </Item>
+  <Item Name="Medium Health Potion" Type="Usable" Level="10" Worth="10">
+    <Effects Health="15"></Effects>
+  </Item>
+  <Item Name="Medium Mana Potion" Type="Usable" Level="10" Worth="10">
+    <Effects Mana="15"></Effects>
+  </Item>
+  <Item Name="Large Health Potion" Type="Usable" Level="20" Worth="20">
+    <Effects Health="30"></Effects>
+  </Item>
+  <Item Name="Large Mana Potion" Type="Usable" Level="20" Worth="20">
+    <Effects Mana="30"></Effects>
+  </Item>
+</ItemList>

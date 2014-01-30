@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Skill Name="Magic Splash" Type="ACTIVE" Effect="INT_DMG" Value="0.4" ManaCost="0">
+  <Children>
+    <Skill Name="Fire Wave" Type="ACTIVE" Effect="INT_DMG" Value="0.7" ManaCost="6">
+      <Children>
+        <Skill Name="Fire Crescendo" Type="ACTIVE" Effect="INT_DMG" Value="1" ManaCost="10">
+        </Skill>
+        <Skill Name="Fire Essence" Type="PASSIVE" Effect="INTELLECT" Value="3" ManaCost="0">
+        </Skill>
+      </Children>
+    </Skill>
+    <Skill Name="Water Wave" Type="ACTIVE" Effect="INT_DMG" Value="0.55" ManaCost="2">
+      <Children>
+        <Skill Name="Water Crescendo" Type="ACTIVE" Effect="INT_DMG" Value="0.7" ManaCost="5">
+        </Skill>
+        <Skill Name="Healing Rain" Type="ACTIVE" Effect="HEALTH" Value="5" ManaCost="4">
+        </Skill>
+      </Children>
+    </Skill>
+  </Children>
+</Skill>

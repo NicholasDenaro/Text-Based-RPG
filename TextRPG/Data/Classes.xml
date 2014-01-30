@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Classes>
+  <Warrior Char="W">
+  </Warrior>
+  <Archer Char="A">
+  </Archer>
+  <Magician Char="M">
+  </Magician>
+  <Thief Char="T">
+  </Thief>
+</Classes>

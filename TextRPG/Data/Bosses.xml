@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bosses>
+  <Boss Name="The Blob" BaseHealth="7" LowLevel="6" HighLevel="15">
+    <Skill Name="Bounce" Damage="5"></Skill>
+    <Skill Name="Sludge" Damage="3"></Skill>
+  </Boss>
+  <Boss Name="Rat Army" BaseHealth="6" LowLevel="2" HighLevel="10">
+    <Skill Name="Bite" Damage="4"></Skill>
+    <Skill Name="Scratch" Damage="3"></Skill>
+  </Boss>
+  <Boss Name="Goblin King" BaseHealth="8" LowLevel="12" HighLevel="22">
+    <Skill Name="Slash" Damage="4"></Skill>
+    <Skill Name="Stab" Damage="3"></Skill>
+    <Skill Name="Crush" Damage="3"></Skill>
+  </Boss>
+  <Boss Name="Werewolf" BaseHealth="9" LowLevel="21" HighLevel="29">
+    <Skill Name="Bite" Damage="5"></Skill>
+    <Skill Name="Pounce" Damage="4"></Skill>
+  </Boss>
+  <Boss Name="Nightmare" BaseHealth="15" LowLevel="30" HighLevel="30">
+    <Skill Name="Phase" Damage="7"></Skill>
+    <Skill Name="Swipe" Damage="6"></Skill>
+    <Skill Name="Ravage" Damage="6"></Skill>
+  </Boss>
+</Bosses>
